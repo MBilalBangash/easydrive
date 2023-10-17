@@ -1,0 +1,87 @@
+.navbar {
+  height: 761px;
+  flex-shrink: 0;
+  background: #181817;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+
+.logo p {
+  color: #fff;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 800;
+
+}
+
+.logo span {
+  color: var(--primary, #e30000);
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.menu {
+  text-align: center;
+}
+
+.menu ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.menu ul li a {
+  color: white;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.menu ul li a:hover {
+  color: red;
+}
+
+.home-text p {
+  color: #fff;
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.home-img {
+  text-align: center !important;
+}
+
+.color {
+  height: 400px;
+  flex-shrink: 0;
+  background: var(--primary, #e30000);
+}
+
+
+
+.easy-drive-title {
+  color: #000;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 0.8px;
+}
+
+.easy-drive-dis {
+  color: #000;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400px;
+  letter-spacing: -0.7px;
+}

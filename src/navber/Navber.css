@@ -1,0 +1,51 @@
+.navbar-main {
+  background: #181817;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+
+.logo p {
+  color: #fff;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.logo span {
+  color: var(--primary, #e30000);
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.menu {
+  text-align: center;
+}
+.menu ul{
+  margin-bottom: 0%;
+}
+
+.menu ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.menu ul li a {
+  color: white;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.menu ul li a:hover {
+  color: red;
+}

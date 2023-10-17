@@ -1,0 +1,45 @@
+.footer-contact {
+    background: linear-gradient(to bottom, red 50%, black 50%);
+}
+
+.footer-contact h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+
+.footer-contact p {
+    color: #FFF;
+    font-family: League Gothic;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.gutter-row p {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.gutter-row-text p {
+    color: var(--White, #FFF);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.icons {
+    color: red;
+    font-size: 20px;
+    display: flex;
+    gap: 2rem;
+    margin: 30px;
+}

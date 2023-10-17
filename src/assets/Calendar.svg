@@ -1,0 +1,15 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Calendar" clip-path="url(#clip0_4_227)">
+<path id="Vector" d="M47.6689 9.69678H10.7939C9.77567 9.69678 8.9502 10.5223 8.9502 11.5405V48.4155C8.9502 49.4338 9.77567 50.2593 10.7939 50.2593H47.6689C48.6872 50.2593 49.5127 49.4338 49.5127 48.4155V11.5405C49.5127 10.5223 48.6872 9.69678 47.6689 9.69678Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M40.2939 6.00928V13.3843" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M18.1689 6.00928V13.3843" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.9502 20.7593H49.5127" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M20.0127 29.978L23.7002 28.1343V42.8843" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M31.5684 29.9781C31.8207 29.5437 32.1591 29.1654 32.5629 28.8664C32.9667 28.5675 33.4273 28.3542 33.9164 28.2397C34.4056 28.1252 34.913 28.1118 35.4075 28.2004C35.902 28.289 36.3732 28.4777 36.7922 28.755C37.2111 29.0322 37.569 29.3922 37.8438 29.8127C38.1187 30.2333 38.3047 30.7055 38.3905 31.2005C38.4762 31.6956 38.46 32.2029 38.3426 32.6914C38.2253 33.1799 38.0093 33.6392 37.7081 34.0413L31.0752 42.8844H38.4502" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_4_227">
+<rect width="59" height="59" fill="white" transform="translate(-0.268555 0.478027)"/>
+</clipPath>
+</defs>
+</svg>
