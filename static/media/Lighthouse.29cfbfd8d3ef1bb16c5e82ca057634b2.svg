@@ -1,0 +1,14 @@
+<svg width="60" height="59" viewBox="0 0 60 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Lighthouse" clip-path="url(#clip0_4_192)">
+<path id="Vector" d="M18.9375 12.9062H41.0625" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M18.9375 12.9062L15.25 49.6061C15.2255 49.8625 15.2551 50.1212 15.3367 50.3655C15.4183 50.6098 15.5503 50.8343 15.724 51.0246C15.8977 51.2148 16.1093 51.3665 16.3453 51.4699C16.5812 51.5733 16.8362 51.6261 17.0938 51.625H42.9063C43.1639 51.6261 43.4188 51.5733 43.6548 51.4699C43.8907 51.3665 44.1023 51.2148 44.2761 51.0246C44.4498 50.8343 44.5817 50.6098 44.6633 50.3655C44.745 50.1212 44.7745 49.8625 44.75 49.6061L41.0625 12.9062L31.18 4.11383C30.8487 3.83788 30.4312 3.68677 30 3.68677C29.5688 3.68677 29.1513 3.83788 28.82 4.11383L18.9375 12.9062Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M30 20.2812V25.8125" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M48.4375 20.2812V25.8125H11.5625V20.2812" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M16.3493 38.7188H43.6507" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_4_192">
+<rect width="59" height="59" fill="white" transform="translate(0.5)"/>
+</clipPath>
+</defs>
+</svg>

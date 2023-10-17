@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/easydrive/static/css/main.6f3e0eaa.css",
+    "main.js": "/easydrive/static/js/main.f70b1e13.js",
+    "static/js/787.c2613c71.chunk.js": "/easydrive/static/js/787.c2613c71.chunk.js",
+    "static/media/car.png": "/easydrive/static/media/car.a88eab66061bbdbc51f8.png",
+    "static/media/car 2.png": "/easydrive/static/media/car 2.5331564449e70a91460b.png",
+    "static/media/top illus.png": "/easydrive/static/media/top illus.eb9f48abce68cfc10359.png",
+    "static/media/Screenshot 2023-09-26 at 11.10 1.png": "/easydrive/static/media/Screenshot 2023-09-26 at 11.10 1.155f60dd1589788cb09a.png",
+    "static/media/honda-cars-png-35 1.png": "/easydrive/static/media/honda-cars-png-35 1.d70afcb2f6c806435f6b.png",
+    "static/media/pngimg 2.png": "/easydrive/static/media/pngimg 2.caf8210d4e8f07f32f0f.png",
+    "static/media/logo.svg": "/easydrive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/steering-wheel-car_svgrepo.com (1).svg": "/easydrive/static/media/steering-wheel-car_svgrepo.com (1).300dc386234dc9e696e149bbcd3eba44.svg",
+    "static/media/steering-wheel-car_svgrepo.com.svg": "/easydrive/static/media/steering-wheel-car_svgrepo.com.60fab310bb1cfe2592241e63b4428419.svg",
+    "static/media/Calendar.svg": "/easydrive/static/media/Calendar.90823137b4e77cf2710c37bf8456fb7a.svg",
+    "static/media/ClockCountdown (2).svg": "/easydrive/static/media/ClockCountdown (2).401a37b1bd47972e8e5a0a1d50dd52f0.svg",
+    "static/media/Lighthouse.svg": "/easydrive/static/media/Lighthouse.29cfbfd8d3ef1bb16c5e82ca057634b2.svg",
+    "static/media/ClockCountdown.svg": "/easydrive/static/media/ClockCountdown.f3fd06ae15a93c4a9f4f273166a46e74.svg",
+    "static/media/measure-kilometer_svgrepo.com.svg": "/easydrive/static/media/measure-kilometer_svgrepo.com.cfeb78e71f0a9043c88d0e9d5a64f81d.svg",
+    "static/media/AirplaneTilt.svg": "/easydrive/static/media/AirplaneTilt.095ae9fb531c1e32f9b0f5d18fa49e14.svg",
+    "index.html": "/easydrive/index.html",
+    "main.6f3e0eaa.css.map": "/easydrive/static/css/main.6f3e0eaa.css.map",
+    "main.f70b1e13.js.map": "/easydrive/static/js/main.f70b1e13.js.map",
+    "787.c2613c71.chunk.js.map": "/easydrive/static/js/787.c2613c71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f3e0eaa.css",
+    "static/js/main.f70b1e13.js"
+  ]
+}
